@@ -1,0 +1,12 @@
+[30-Apr-2022 07:58:09 UTC] PHP Warning:  file_get_contents(https://card24h.com/api/loaithe.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/tmuarefbtk/public_html/api/loaithe.php on line 1
+[30-Apr-2022 07:58:09 UTC] PHP Warning:  file_get_contents(https://card24h.com/api/menhgia.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/tmuarefbtk/public_html/api/menhgia.php on line 1
+[30-Apr-2022 12:45:10 UTC] PHP Warning:  file_get_contents(https://card24h.com/api/loaithe.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/tmuarefbtk/public_html/api/loaithe.php on line 1
+[30-Apr-2022 12:45:10 UTC] PHP Warning:  file_get_contents(https://card24h.com/api/menhgia.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/tmuarefbtk/public_html/api/menhgia.php on line 1
+[30-Apr-2022 13:26:42 UTC] PHP Warning:  file_get_contents(https://card24h.com/api/menhgia.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/tmuarefbtk/public_html/api/menhgia.php on line 1
+[30-Apr-2022 13:26:42 UTC] PHP Warning:  file_get_contents(https://card24h.com/api/loaithe.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/tmuarefbtk/public_html/api/loaithe.php on line 1
